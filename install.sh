@@ -19,7 +19,7 @@ read_input_yn() {
     echo
 }
 
-REPO_URL="https://github.com/bilbo111/3xui-shopbot/tree/main"
+REPO_URL="https://github.com/bilbo111/3xui-shopbot.git"
 PROJECT_DIR="3xui-shopbot"
 NGINX_CONF_FILE="/etc/nginx/sites-available/${PROJECT_DIR}.conf"
 
